@@ -8,6 +8,7 @@ public class Git {
         System.out.println("this is Git!");
         System.out.println("this is Git two!");
         System.out.println("this is Git three!");
+        System.out.println("this is Hot-fix!");
     }
 
 }
