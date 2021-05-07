@@ -9,7 +9,7 @@ public class Git {
         System.out.println("this is Git two!");
         System.out.println("this is Git three!");
         System.out.println("this is Hot-fix!");
-        System.out.println("master test");
+        System.out.println("Hot-fix test!");
     }
 
 }
