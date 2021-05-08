@@ -3,7 +3,7 @@ package com.itcloud;
 /**
  * @author c-wuam
  */
-public class Git {
+public class GitTest {
     public static void main(String[] args) {
         System.out.println("this is Git!");
         System.out.println("this is Git two!");
